@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="28533" topLine="1158" />
+		</Cursor>
+		<Folding>
+			<Collapse line="1073" />
+			<Collapse line="1125" />
+			<Collapse line="1176" />
+			<Collapse line="1263" />
+			<Collapse line="1343" />
+			<Collapse line="1353" />
+			<Collapse line="1364" />
+			<Collapse line="1376" />
+			<Collapse line="1387" />
+			<Collapse line="1395" />
+			<Collapse line="1403" />
+			<Collapse line="1413" />
+			<Collapse line="1423" />
+			<Collapse line="1438" />
+			<Collapse line="1500" />
+			<Collapse line="1512" />
+			<Collapse line="1522" />
+			<Collapse line="1530" />
+		</Folding>
+	</File>
+	<File name="vec3f.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="560" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="imageloader.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="454" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
